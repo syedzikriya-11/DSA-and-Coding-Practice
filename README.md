@@ -1,2 +1,2 @@
-# leetcode & DSA
-Collection of DSA + LeetCode problems solved in C&C++.
+# leetcode & DSA, coding practice
+Collection of DSA + LeetCode +coding practice solved in C&C++.
